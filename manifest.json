@@ -1,0 +1,181 @@
+{
+  "total_files": 29,
+  "total_items": 1000001,
+  "target_size_mb": 20.0,
+  "files": [
+    {
+      "file": "split_data\\by_size\\data_part_001.json",
+      "size_mb": 19.607316970825195,
+      "items": 34483,
+      "range": "0-34482"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_002.json",
+      "size_mb": 19.89996337890625,
+      "items": 34483,
+      "range": "34483-68965"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_003.json",
+      "size_mb": 21.69465446472168,
+      "items": 34483,
+      "range": "68966-103448"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_004.json",
+      "size_mb": 21.674378395080566,
+      "items": 34483,
+      "range": "103449-137931"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_005.json",
+      "size_mb": 20.223064422607422,
+      "items": 34483,
+      "range": "137932-172414"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_006.json",
+      "size_mb": 18.870121002197266,
+      "items": 34483,
+      "range": "172415-206897"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_007.json",
+      "size_mb": 18.443843841552734,
+      "items": 34483,
+      "range": "206898-241380"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_008.json",
+      "size_mb": 19.684853553771973,
+      "items": 34483,
+      "range": "241381-275863"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_009.json",
+      "size_mb": 19.685492515563965,
+      "items": 34483,
+      "range": "275864-310346"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_010.json",
+      "size_mb": 19.683159828186035,
+      "items": 34483,
+      "range": "310347-344829"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_011.json",
+      "size_mb": 19.705368995666504,
+      "items": 34483,
+      "range": "344830-379312"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_012.json",
+      "size_mb": 19.69350528717041,
+      "items": 34483,
+      "range": "379313-413795"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_013.json",
+      "size_mb": 19.691466331481934,
+      "items": 34483,
+      "range": "413796-448278"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_014.json",
+      "size_mb": 19.67979145050049,
+      "items": 34483,
+      "range": "448279-482761"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_015.json",
+      "size_mb": 19.699602127075195,
+      "items": 34483,
+      "range": "482762-517244"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_016.json",
+      "size_mb": 19.679247856140137,
+      "items": 34483,
+      "range": "517245-551727"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_017.json",
+      "size_mb": 19.688339233398438,
+      "items": 34483,
+      "range": "551728-586210"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_018.json",
+      "size_mb": 19.686046600341797,
+      "items": 34483,
+      "range": "586211-620693"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_019.json",
+      "size_mb": 19.694376945495605,
+      "items": 34483,
+      "range": "620694-655176"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_020.json",
+      "size_mb": 19.68543243408203,
+      "items": 34483,
+      "range": "655177-689659"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_021.json",
+      "size_mb": 19.66921329498291,
+      "items": 34483,
+      "range": "689660-724142"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_022.json",
+      "size_mb": 19.89248561859131,
+      "items": 34483,
+      "range": "724143-758625"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_023.json",
+      "size_mb": 19.779170036315918,
+      "items": 34483,
+      "range": "758626-793108"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_024.json",
+      "size_mb": 19.869680404663086,
+      "items": 34483,
+      "range": "793109-827591"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_025.json",
+      "size_mb": 19.777953147888184,
+      "items": 34483,
+      "range": "827592-862074"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_026.json",
+      "size_mb": 19.73101234436035,
+      "items": 34483,
+      "range": "862075-896557"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_027.json",
+      "size_mb": 19.68247413635254,
+      "items": 34483,
+      "range": "896558-931040"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_028.json",
+      "size_mb": 19.65970802307129,
+      "items": 34483,
+      "range": "931041-965523"
+    },
+    {
+      "file": "split_data\\by_size\\data_part_029.json",
+      "size_mb": 19.685279846191406,
+      "items": 34477,
+      "range": "965524-1000000"
+    }
+  ]
+}

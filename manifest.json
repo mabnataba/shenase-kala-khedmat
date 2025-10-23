@@ -1,181 +1,244 @@
 {
+  "version": "1.0",
+  "generated_at": "2025-10-23T11:16:23.418349",
+  "source_file": "original_data.json",
   "total_files": 29,
   "total_items": 1000001,
-  "target_size_mb": 20.0,
+  "total_size_mb": 574.12,
+  "total_size_bytes": 602005310,
+  "target_chunk_size_mb": 20,
   "files": [
     {
-      "file": "split_data\\by_size\\data_part_001.json",
-      "size_mb": 19.607316970825195,
+      "filename": "data_part_001.json",
+      "size_mb": 19.61,
+      "size_bytes": 20559762,
       "items": 34483,
-      "range": "0-34482"
+      "start_index": 0,
+      "end_index": 34482
     },
     {
-      "file": "split_data\\by_size\\data_part_002.json",
-      "size_mb": 19.89996337890625,
+      "filename": "data_part_002.json",
+      "size_mb": 19.9,
+      "size_bytes": 20866624,
       "items": 34483,
-      "range": "34483-68965"
+      "start_index": 34483,
+      "end_index": 68965
     },
     {
-      "file": "split_data\\by_size\\data_part_003.json",
-      "size_mb": 21.69465446472168,
+      "filename": "data_part_003.json",
+      "size_mb": 21.69,
+      "size_bytes": 22748494,
       "items": 34483,
-      "range": "68966-103448"
+      "start_index": 68966,
+      "end_index": 103448
     },
     {
-      "file": "split_data\\by_size\\data_part_004.json",
-      "size_mb": 21.674378395080566,
+      "filename": "data_part_004.json",
+      "size_mb": 21.67,
+      "size_bytes": 22727233,
       "items": 34483,
-      "range": "103449-137931"
+      "start_index": 103449,
+      "end_index": 137931
     },
     {
-      "file": "split_data\\by_size\\data_part_005.json",
-      "size_mb": 20.223064422607422,
+      "filename": "data_part_005.json",
+      "size_mb": 20.22,
+      "size_bytes": 21205420,
       "items": 34483,
-      "range": "137932-172414"
+      "start_index": 137932,
+      "end_index": 172414
     },
     {
-      "file": "split_data\\by_size\\data_part_006.json",
-      "size_mb": 18.870121002197266,
+      "filename": "data_part_006.json",
+      "size_mb": 18.87,
+      "size_bytes": 19786756,
       "items": 34483,
-      "range": "172415-206897"
+      "start_index": 172415,
+      "end_index": 206897
     },
     {
-      "file": "split_data\\by_size\\data_part_007.json",
-      "size_mb": 18.443843841552734,
+      "filename": "data_part_007.json",
+      "size_mb": 18.44,
+      "size_bytes": 19339772,
       "items": 34483,
-      "range": "206898-241380"
+      "start_index": 206898,
+      "end_index": 241380
     },
     {
-      "file": "split_data\\by_size\\data_part_008.json",
-      "size_mb": 19.684853553771973,
+      "filename": "data_part_008.json",
+      "size_mb": 19.68,
+      "size_bytes": 20641065,
       "items": 34483,
-      "range": "241381-275863"
+      "start_index": 241381,
+      "end_index": 275863
     },
     {
-      "file": "split_data\\by_size\\data_part_009.json",
-      "size_mb": 19.685492515563965,
+      "filename": "data_part_009.json",
+      "size_mb": 19.69,
+      "size_bytes": 20641735,
       "items": 34483,
-      "range": "275864-310346"
+      "start_index": 275864,
+      "end_index": 310346
     },
     {
-      "file": "split_data\\by_size\\data_part_010.json",
-      "size_mb": 19.683159828186035,
+      "filename": "data_part_010.json",
+      "size_mb": 19.68,
+      "size_bytes": 20639289,
       "items": 34483,
-      "range": "310347-344829"
+      "start_index": 310347,
+      "end_index": 344829
     },
     {
-      "file": "split_data\\by_size\\data_part_011.json",
-      "size_mb": 19.705368995666504,
+      "filename": "data_part_011.json",
+      "size_mb": 19.71,
+      "size_bytes": 20662577,
       "items": 34483,
-      "range": "344830-379312"
+      "start_index": 344830,
+      "end_index": 379312
     },
     {
-      "file": "split_data\\by_size\\data_part_012.json",
-      "size_mb": 19.69350528717041,
+      "filename": "data_part_012.json",
+      "size_mb": 19.69,
+      "size_bytes": 20650137,
       "items": 34483,
-      "range": "379313-413795"
+      "start_index": 379313,
+      "end_index": 413795
     },
     {
-      "file": "split_data\\by_size\\data_part_013.json",
-      "size_mb": 19.691466331481934,
+      "filename": "data_part_013.json",
+      "size_mb": 19.69,
+      "size_bytes": 20647999,
       "items": 34483,
-      "range": "413796-448278"
+      "start_index": 413796,
+      "end_index": 448278
     },
     {
-      "file": "split_data\\by_size\\data_part_014.json",
-      "size_mb": 19.67979145050049,
+      "filename": "data_part_014.json",
+      "size_mb": 19.68,
+      "size_bytes": 20635757,
       "items": 34483,
-      "range": "448279-482761"
+      "start_index": 448279,
+      "end_index": 482761
     },
     {
-      "file": "split_data\\by_size\\data_part_015.json",
-      "size_mb": 19.699602127075195,
+      "filename": "data_part_015.json",
+      "size_mb": 19.7,
+      "size_bytes": 20656530,
       "items": 34483,
-      "range": "482762-517244"
+      "start_index": 482762,
+      "end_index": 517244
     },
     {
-      "file": "split_data\\by_size\\data_part_016.json",
-      "size_mb": 19.679247856140137,
+      "filename": "data_part_016.json",
+      "size_mb": 19.68,
+      "size_bytes": 20635187,
       "items": 34483,
-      "range": "517245-551727"
+      "start_index": 517245,
+      "end_index": 551727
     },
     {
-      "file": "split_data\\by_size\\data_part_017.json",
-      "size_mb": 19.688339233398438,
+      "filename": "data_part_017.json",
+      "size_mb": 19.69,
+      "size_bytes": 20644720,
       "items": 34483,
-      "range": "551728-586210"
+      "start_index": 551728,
+      "end_index": 586210
     },
     {
-      "file": "split_data\\by_size\\data_part_018.json",
-      "size_mb": 19.686046600341797,
+      "filename": "data_part_018.json",
+      "size_mb": 19.69,
+      "size_bytes": 20642316,
       "items": 34483,
-      "range": "586211-620693"
+      "start_index": 586211,
+      "end_index": 620693
     },
     {
-      "file": "split_data\\by_size\\data_part_019.json",
-      "size_mb": 19.694376945495605,
+      "filename": "data_part_019.json",
+      "size_mb": 19.69,
+      "size_bytes": 20651051,
       "items": 34483,
-      "range": "620694-655176"
+      "start_index": 620694,
+      "end_index": 655176
     },
     {
-      "file": "split_data\\by_size\\data_part_020.json",
-      "size_mb": 19.68543243408203,
+      "filename": "data_part_020.json",
+      "size_mb": 19.69,
+      "size_bytes": 20641672,
       "items": 34483,
-      "range": "655177-689659"
+      "start_index": 655177,
+      "end_index": 689659
     },
     {
-      "file": "split_data\\by_size\\data_part_021.json",
-      "size_mb": 19.66921329498291,
+      "filename": "data_part_021.json",
+      "size_mb": 19.67,
+      "size_bytes": 20624665,
       "items": 34483,
-      "range": "689660-724142"
+      "start_index": 689660,
+      "end_index": 724142
     },
     {
-      "file": "split_data\\by_size\\data_part_022.json",
-      "size_mb": 19.89248561859131,
+      "filename": "data_part_022.json",
+      "size_mb": 19.89,
+      "size_bytes": 20858783,
       "items": 34483,
-      "range": "724143-758625"
+      "start_index": 724143,
+      "end_index": 758625
     },
     {
-      "file": "split_data\\by_size\\data_part_023.json",
-      "size_mb": 19.779170036315918,
+      "filename": "data_part_023.json",
+      "size_mb": 19.78,
+      "size_bytes": 20739963,
       "items": 34483,
-      "range": "758626-793108"
+      "start_index": 758626,
+      "end_index": 793108
     },
     {
-      "file": "split_data\\by_size\\data_part_024.json",
-      "size_mb": 19.869680404663086,
+      "filename": "data_part_024.json",
+      "size_mb": 19.87,
+      "size_bytes": 20834870,
       "items": 34483,
-      "range": "793109-827591"
+      "start_index": 793109,
+      "end_index": 827591
     },
     {
-      "file": "split_data\\by_size\\data_part_025.json",
-      "size_mb": 19.777953147888184,
+      "filename": "data_part_025.json",
+      "size_mb": 19.78,
+      "size_bytes": 20738687,
       "items": 34483,
-      "range": "827592-862074"
+      "start_index": 827592,
+      "end_index": 862074
     },
     {
-      "file": "split_data\\by_size\\data_part_026.json",
-      "size_mb": 19.73101234436035,
+      "filename": "data_part_026.json",
+      "size_mb": 19.73,
+      "size_bytes": 20689466,
       "items": 34483,
-      "range": "862075-896557"
+      "start_index": 862075,
+      "end_index": 896557
     },
     {
-      "file": "split_data\\by_size\\data_part_027.json",
-      "size_mb": 19.68247413635254,
+      "filename": "data_part_027.json",
+      "size_mb": 19.68,
+      "size_bytes": 20638570,
       "items": 34483,
-      "range": "896558-931040"
+      "start_index": 896558,
+      "end_index": 931040
     },
     {
-      "file": "split_data\\by_size\\data_part_028.json",
-      "size_mb": 19.65970802307129,
+      "filename": "data_part_028.json",
+      "size_mb": 19.66,
+      "size_bytes": 20614698,
       "items": 34483,
-      "range": "931041-965523"
+      "start_index": 931041,
+      "end_index": 965523
     },
     {
-      "file": "split_data\\by_size\\data_part_029.json",
-      "size_mb": 19.685279846191406,
+      "filename": "data_part_029.json",
+      "size_mb": 19.69,
+      "size_bytes": 20641512,
       "items": 34477,
-      "range": "965524-1000000"
+      "start_index": 965524,
+      "end_index": 1000000
     }
   ]
 }
